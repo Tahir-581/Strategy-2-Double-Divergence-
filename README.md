@@ -16,11 +16,16 @@ Pine Script **strategy** variant using **double divergence** logic on the TSA TD
 - Stop loss & take profit in pips
 - Overlay on chart with optional MA 50/200 display
 
-## Import into TradingView
+## Installation
+
+1. Install [TradingView](https://www.tradingview.com/).
+2. Open the **Pine Editor** from a chart.
+
+## Usage
 
 1. Copy `TSA_TDI_Double_Divergence_Strategy.pine` into the Pine Editor.
-2. Save and add to chart as a **strategy**.
-3. Adjust inputs under strategy settings.
+2. **Save** and add to chart as a **strategy**.
+3. Adjust inputs under strategy settings and run the **Strategy Tester**.
 
 ## Comparison
 
